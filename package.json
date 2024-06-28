@@ -58,7 +58,7 @@
     "wait-on": "^7.0.1"
   },
   "dependencies": {
-    "@fastify/error": "^3.0.0",
+    "@fastify/error": "^4.0.0",
     "@fastify/static": "^7.0.0",
     "@fastify/websocket": "^10.0.0",
     "fastify-plugin": "^4.2.0",

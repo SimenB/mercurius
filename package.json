@@ -27,7 +27,7 @@
   },
   "homepage": "https://mercurius.dev",
   "peerDependencies": {
-    "graphql": "^16.0.0"
+    "graphql": "^17.0.1"
   },
   "devDependencies": {
     "@graphql-tools/merge": "^9.0.0",
@@ -43,7 +43,7 @@
     "concurrently": "^10.0.1",
     "docsify-cli": "^4.4.3",
     "fastify": "^4.17.0",
-    "graphql": "^16.0.0",
+    "graphql": "^17.0.1",
     "graphql-ws": "^6.0.1",
     "pre-commit": "^2.0.0",
     "proxyquire": "^2.1.3",
